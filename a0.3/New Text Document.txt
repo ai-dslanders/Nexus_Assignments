@@ -1,0 +1,18 @@
+Log and Exp: Proving Inverse Relationship:
+👀🔎 What do you see?
+your answer:I observe that applying a function and then its inverse function returns the original input value. In other words, if we put the output of a function into its inverse, we get back the input. This confirms the inverse relationship between functions like exponential and logarithm. However, this holds true only when the function is invertible and the input values are within the valid domain.
+2. Plotting Sine Functions Variations:
+👀🔎 What do you see?
+your answer: I observe that increasing the coefficient inside the sine function increases the frequency of oscillations. This means the function cycles more rapidly between its maximum and minimum values over the same interval. Conversely, decreasing the coefficient reduces the frequency, resulting in slower and fewer oscillations. The plot clearly shows how the sine wave changes shape depending on the multiplier of the input variable.
+3. Subplots: Trig, Inverse, Exp, and Log:
+👀🔎 What do you see?
+your answer:The exponential function grows rapidly and stays positive, while the logarithm increases slowly and is only defined for positive values. Neither function has negative outputs in the plotted range.
+4. Features of the Sigmoid Function:
+👀🔎 What do you see?
+your answer:The sigmoid function smoothly maps any input number to a value strictly between 0 and 1. For large negative inputs, the output approaches 0; for large positive inputs, it approaches 1; and near zero, the output is around 0.5. This makes it useful for representing probabilities or "soft" decisions.
+5. Derivatives of Famous Functions:
+👀🔎 What do you see?
+your answer:The derivative of the exponential function EX is the function itself. This means its rate of change at any point equals its current value, demonstrating continuous exponential growth.
+6. Gradient of Selected Functions:
+👀🔎 What do you see?
+your answer:When computing partial derivatives, SymPy treats all variables except the one of differentiation as constants. This means it takes the derivative with respect to one variable while holding the others fixed, effectively treating them as numbers (constants). This behavior correctly captures how partial derivatives measure the rate of change along one direction in multivariable functions.
