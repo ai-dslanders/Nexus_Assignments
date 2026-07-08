@@ -1,0 +1,12 @@
+Libraries required for this script : 
+
+pip install opencv-python==3.4.18.65
+pip install mediapipe
+pip install numpy
+
+About Task : 
+This code is written to count and detect the correct execution of the squat movement.
+The code is resistant to different modes: facing, inclined and from the side. This movement is recognizable to the machine.
+
+By : Rooholla Alikhani 
+https://github.com/RAlIKHANI1991
